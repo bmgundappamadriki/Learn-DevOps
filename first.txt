@@ -1,2 +1,9 @@
 This my First "DEVOPS" File in Git Bash Bro  hi.
 
+
+public class First{
+	public static void main(String args[]){
+	System.out.println("Hello");
+	}
+}
+
